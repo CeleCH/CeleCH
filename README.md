@@ -47,6 +47,8 @@
 | 💊 **Sistema de Ventas para Botica** | Gestión de productos, clientes, ventas e inventario (MVC) |
 | 🥪 **Sistema de Pedidos Online – El Sanguchón (SOA)** | Pedidos, usuarios y arquitectura orientada a servicios |
 | 📊 **Dashboards y Reportes Web** | Estadísticas, gráficos y visualización de datos |
+| 📣 **FeedbackLive – Sistema de Encuestas en Tiempo Real** | Encuestas web con dashboard, gráficos automáticos, QR para acceso móvil, modo oscuro y actualización en tiempo real |
+
 
 </div>
 
@@ -64,6 +66,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap_Icons-563D7C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Responsive_Design-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
 </p>
 
 🖥️ Backend
@@ -72,6 +76,11 @@
   <img src="https://img.shields.io/badge/Sessions-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Auth_&_Roles-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FPDF-FF5722?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Session_Management-4CAF50?style=for-the-badge"/>
 </p>
 
 🗄️ Base de Datos
@@ -83,6 +92,8 @@
 📊 Visualización
 <p>
   <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Dashboard_UI-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-000000?style=for-the-badge"/>
 </p>
 
 🛠️ Herramientas
@@ -91,6 +102,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+
 </p>
 
 ---
