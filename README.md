@@ -48,6 +48,7 @@
 | 🥪 **Sistema de Pedidos Online – El Sanguchón (SOA)** | Pedidos, usuarios y arquitectura orientada a servicios |
 | 📊 **Dashboards y Reportes Web** | Estadísticas, gráficos y visualización de datos |
 | 📣 **FeedbackLive – Sistema de Encuestas en Tiempo Real** | Encuestas web con dashboard, gráficos automáticos, QR para acceso móvil, modo oscuro y actualización en tiempo real |
+| 🛒 **API eCommerce – Spring Boot** | API REST profesional con usuarios, login JWT, productos, categorías, carrito persistente, órdenes y control de stock |
 
 
 </div>
@@ -81,12 +82,20 @@
   <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Session_Management-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role_Based_Security-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ecommerce_API-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESTful_Services-2196F3?style=for-the-badge"/>
+
 </p>
 
 🗄️ Base de Datos
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Queries-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Relational_Modeling-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Foreign_Keys-607D8B?style=for-the-badge"/>
+
 </p>
 
 📊 Visualización
@@ -94,6 +103,9 @@
   <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white"/>
    <img src="https://img.shields.io/badge/Dashboard_UI-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Visualization-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real_Time_Charts-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Admin_Dashboard-3F51B5?style=for-the-badge"/>
+
 </p>
 
 🛠️ Herramientas
@@ -103,6 +115,9 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger_API-85EA2D?style=for-the-badge"/>
+
 
 </p>
 
