@@ -50,6 +50,7 @@
 | 📣 **FeedbackLive – Sistema de Encuestas en Tiempo Real** | Encuestas web con dashboard, gráficos automáticos, QR para acceso móvil, modo oscuro y actualización en tiempo real |
 | 🛒 **API eCommerce – Spring Boot** | API REST profesional con usuarios, login JWT, productos, categorías, carrito persistente, órdenes y control de stock |
 | 🎵 **SpotyLite – Music Streaming Web App (Full Stack)** | Plataforma de streaming musical desarrollada con React + Spring Boot. Incluye autenticación, búsqueda de canciones en tiempo real vía API externa, reproducción embebida, favoritos, cola de reproducción y diseño inspirado en Spotify |
+| 🎧 **Nexus Sound – Desktop Music Player (Next.js + Tauri)** | Aplicación de escritorio instalable para Windows que permite reproducir música local (MP3/WAV) y contenido de YouTube, con control de volumen, mute, navegación básica y una interfaz moderna desarrollada con Next.js y Tauri |
 
 
 
@@ -73,6 +74,9 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
 
 
 </p>
@@ -130,9 +134,30 @@
 <img src="https://img.shields.io/badge/Swagger_API-85EA2D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RapidAPI-00C7B7?style=for-the-badge"/>
 
+</p>
 
+🖥️ Desktop / Cross-Platform
+<p>
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
+<img src="https://img.shields.io/badge/Desktop_App-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Windows_App-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 </p>
+
+⚙️ Lenguajes / Runtime
+<p>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+
+</p>
+
+🛠️ Build & Packaging
+<p>
+<img src="https://img.shields.io/badge/Desktop_Build-7952B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Installer_EXE-009688?style=for-the-badge"/>
+
+</p>
+
+
 
 ---
 
