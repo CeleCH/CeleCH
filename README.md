@@ -49,6 +49,8 @@
 | 📊 **Dashboards y Reportes Web** | Estadísticas, gráficos y visualización de datos |
 | 📣 **FeedbackLive – Sistema de Encuestas en Tiempo Real** | Encuestas web con dashboard, gráficos automáticos, QR para acceso móvil, modo oscuro y actualización en tiempo real |
 | 🛒 **API eCommerce – Spring Boot** | API REST profesional con usuarios, login JWT, productos, categorías, carrito persistente, órdenes y control de stock |
+| 🎵 **SpotyLite – Music Streaming Web App (Full Stack)** | Plataforma de streaming musical desarrollada con React + Spring Boot. Incluye autenticación, búsqueda de canciones en tiempo real vía API externa, reproducción embebida, favoritos, cola de reproducción y diseño inspirado en Spotify |
+
 
 
 </div>
@@ -68,6 +70,10 @@
   <img src="https://img.shields.io/badge/Bootstrap_Icons-563D7C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Responsive_Design-FF69B4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+
 
 </p>
 
@@ -86,6 +92,8 @@
 <img src="https://img.shields.io/badge/Role_Based_Security-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ecommerce_API-FF9800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RESTful_Services-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/External_API_Integration-009688?style=for-the-badge"/>
+
 
 </p>
 
@@ -95,6 +103,9 @@
   <img src="https://img.shields.io/badge/SQL_Queries-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Relational_Modeling-9C27B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Foreign_Keys-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/H2_Database-1A73E8?style=for-the-badge"/>
+
 
 </p>
 
@@ -117,6 +128,8 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger_API-85EA2D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RapidAPI-00C7B7?style=for-the-badge"/>
+
 
 
 </p>
