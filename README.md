@@ -180,8 +180,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://github.com/CeleCH">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://celech.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=pfsense&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
