@@ -51,6 +51,8 @@
 | 🛒 **API eCommerce – Spring Boot** | API REST profesional con usuarios, login JWT, productos, categorías, carrito persistente, órdenes y control de stock |
 | 🎵 **SpotyLite – Music Streaming Web App (Full Stack)** | Plataforma de streaming musical desarrollada con React + Spring Boot. Incluye autenticación, búsqueda de canciones en tiempo real vía API externa, reproducción embebida, favoritos, cola de reproducción y diseño inspirado en Spotify |
 | 🎧 **Nexus Sound – Desktop Music Player (Next.js + Tauri)** | Aplicación de escritorio instalable para Windows que permite reproducir música local (MP3/WAV) y contenido de YouTube, con control de volumen, mute, navegación básica y una interfaz moderna desarrollada con Next.js y Tauri |
+| 📷 **Sistema de Control de Asistencia con QR (Web + Mobile)** | Aplicación académica para el registro de asistencias mediante códigos QR. Incluye panel de administrador (docente) con generación dinámica de QR, dashboard con métricas y gráficas, exportación a Excel y PDF, y módulo de escaneo para alumnos desde el celular. Desarrollado con Next.js, SQLite y librerías de escaneo QR. |
+
 
 
 
@@ -76,6 +78,10 @@
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Camera_API-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QR_Scanner-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PWA_Ready-5A0FC8?style=for-the-badge"/>
+
 
 
 
@@ -97,6 +103,9 @@
 <img src="https://img.shields.io/badge/Ecommerce_API-FF9800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RESTful_Services-2196F3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/External_API_Integration-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/better--sqlite3-336791?style=for-the-badge"/>
+
 
 
 </p>
@@ -109,6 +118,8 @@
 <img src="https://img.shields.io/badge/Foreign_Keys-607D8B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/H2_Database-1A73E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/File_Based_Database-607D8B?style=for-the-badge"/>
+
 
 
 </p>
@@ -120,6 +131,9 @@
   <img src="https://img.shields.io/badge/Data_Visualization-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Real_Time_Charts-FF5722?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Admin_Dashboard-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytics_Dashboard-0EA5E9?style=for-the-badge"/>
+
 
 </p>
 
@@ -133,6 +147,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger_API-85EA2D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RapidAPI-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/>
+
 
 </p>
 
@@ -154,6 +170,9 @@
 <p>
 <img src="https://img.shields.io/badge/Desktop_Build-7952B3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Installer_EXE-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XLSX_Export-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PDF_Report_Generation-9C27B0?style=for-the-badge"/>
+
 
 </p>
 
