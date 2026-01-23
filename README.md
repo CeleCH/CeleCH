@@ -52,6 +52,8 @@
 | 🎵 **SpotyLite – Music Streaming Web App (Full Stack)** | Plataforma de streaming musical desarrollada con React + Spring Boot. Incluye autenticación, búsqueda de canciones en tiempo real vía API externa, reproducción embebida, favoritos, cola de reproducción y diseño inspirado en Spotify |
 | 🎧 **Nexus Sound – Desktop Music Player (Next.js + Tauri)** | Aplicación de escritorio instalable para Windows que permite reproducir música local (MP3/WAV) y contenido de YouTube, con control de volumen, mute, navegación básica y una interfaz moderna desarrollada con Next.js y Tauri |
 | 📷 **Sistema de Control de Asistencia con QR (Web + Mobile)** | Aplicación académica para el registro de asistencias mediante códigos QR. Incluye panel de administrador (docente) con generación dinámica de QR, dashboard con métricas y gráficas, exportación a Excel y PDF, y módulo de escaneo para alumnos desde el celular. Desarrollado con Next.js, SQLite y librerías de escaneo QR. |
+| 🚨 **SOS Emergency App (Flutter Mobile)** | Aplicación móvil de emergencia con botón SOS por presión prolongada, geolocalización GPS en tiempo real, apertura automática de Google Maps, envío de alertas por WhatsApp a múltiples contactos, gestión editable de contactos de emergencia e historial local de eventos. Desarrollada en Flutter con almacenamiento local y enfoque en UX y seguridad. |
+
 
 
 
@@ -81,6 +83,9 @@
 <img src="https://img.shields.io/badge/Camera_API-FF9800?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/QR_Scanner-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PWA_Ready-5A0FC8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
 
 
 
@@ -148,17 +153,29 @@
 <img src="https://img.shields.io/badge/Swagger_API-85EA2D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RapidAPI-00C7B7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/>
+<img src="https://img.shields.io/badge/SharedPreferences-7952B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Geolocation_GPS-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WhatsApp_Deep_Links-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
 
 
 </p>
 
-🖥️ Desktop / Cross-Platform
+🖥️ Escritorio / Multiplataforma
 <p>
 <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
 <img src="https://img.shields.io/badge/Desktop_App-3F51B5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Windows_App-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 </p>
+
+📱 Desarrollo móvil
+<p>
+<img src="https://img.shields.io/badge/Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter_Mobile_App-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Emulator-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Device_APK_Install-000000?style=for-the-badge"/>
+
 
 ⚙️ Lenguajes / Runtime
 <p>
