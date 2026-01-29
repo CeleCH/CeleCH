@@ -53,6 +53,8 @@
 | 🎧 **Nexus Sound – Desktop Music Player (Next.js + Tauri)** | Aplicación de escritorio instalable para Windows que permite reproducir música local (MP3/WAV) y contenido de YouTube, con control de volumen, mute, navegación básica y una interfaz moderna desarrollada con Next.js y Tauri |
 | 📷 **Sistema de Control de Asistencia con QR (Web + Mobile)** | Aplicación académica para el registro de asistencias mediante códigos QR. Incluye panel de administrador (docente) con generación dinámica de QR, dashboard con métricas y gráficas, exportación a Excel y PDF, y módulo de escaneo para alumnos desde el celular. Desarrollado con Next.js, SQLite y librerías de escaneo QR. |
 | 🚨 **SOS Emergency App (Flutter Mobile)** | Aplicación móvil de emergencia con botón SOS por presión prolongada, geolocalización GPS en tiempo real, apertura automática de Google Maps, envío de alertas por WhatsApp a múltiples contactos, gestión editable de contactos de emergencia e historial local de eventos. Desarrollada en Flutter con almacenamiento local y enfoque en UX y seguridad. |
+| 🏨 **Sistema de Gestión y Reservas de Hotel (SOA)** | Sistema web completo basado en Arquitectura Orientada a Servicios (SOA). Incluye autenticación con JWT y roles (ADMIN, RECEPCIONISTA, CLIENTE), gestión de habitaciones y tipos, reservas con check-in/check-out, panel de recepción, panel administrativo con CRUD completo (usuarios, habitaciones, tipos), dashboard con KPIs y frontend profesional desarrollado en React + Vite. Backend desacoplado en microservicios con Node.js, Express y MySQL. |
+
 
 
 
