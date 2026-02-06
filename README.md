@@ -71,69 +71,93 @@
 <h2>🛠️ | Languages, Frameworks, and Tools</h2>
 
 <table>
+  <!-- Frontend -->
   <tr>
     <td><b>Frontend</b></td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite,nextjs,ts" />
-      <br/>
-      Responsive Design
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=flat-square"/>
     </td>
   </tr>
 
+  <!-- Backend -->
   <tr>
     <td><b>Backend</b></td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php" />
-      <br/>
-      REST APIs · JWT Authentication · Role-Based Security · Stripe Payments · Webhooks · Environment Variables
+      <br/><br/>
+      <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/JWT_Authentication-111827?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Role_Based_Security-16A34A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Stripe_Payments-635BFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Webhooks-4B5563?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Environment_Variables-.env-22C55E?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/mysql2-4479A1?style=flat-square"/>
     </td>
   </tr>
 
+  <!-- Databases -->
   <tr>
     <td><b>Databases</b></td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite" />
-      <br/>
-      Hibernate JPA · Relational Modeling · SQL Queries
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Relational_Modeling-7C3AED?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQL_Queries-0F172A?style=flat-square"/>
     </td>
   </tr>
 
+  <!-- Visualization -->
   <tr>
     <td><b>Visualization & Dashboards</b></td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=chartjs" />
-      <br/>
-      Recharts · Admin Dashboards · KPIs & Analytics · Data Visualization
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Recharts-22C55E?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Admin_Dashboards-1E40AF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/KPIs_&_Analytics-0EA5E9?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Data_Visualization-020617?style=flat-square"/>
     </td>
   </tr>
 
+  <!-- Tools -->
   <tr>
     <td><b>Tools & DevOps</b></td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
-      <br/>
-      Swagger · XAMPP · ngrok · dotenv
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Swagger_API-85EA2D?style=flat-square"/>
+      <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square"/>
+      <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square"/>
+      <img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square"/>
     </td>
   </tr>
 
+  <!-- Desktop -->
   <tr>
     <td><b>Desktop & Multiplatform</b></td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=tauri,windows" />
-      <br/>
-      Desktop Applications · Windows Apps
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Desktop_Applications-3F51B5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Windows_Apps-0078D6?style=flat-square"/>
     </td>
   </tr>
 
+  <!-- Mobile -->
   <tr>
     <td><b>Mobile Development</b></td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=flutter,dart,android" />
-      <br/>
-      Android APK
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Android_APK-3DDC84?style=flat-square"/>
     </td>
   </tr>
 
+  <!-- Languages -->
   <tr>
     <td><b>Languages & Runtime</b></td>
     <td>
@@ -141,21 +165,34 @@
     </td>
   </tr>
 
+  <!-- Build -->
   <tr>
     <td><b>Build & Reporting</b></td>
     <td>
-      PDF Generation · Excel (XLSX) Export
+      <img src="https://img.shields.io/badge/PDF_Report_Generation-9C27B0?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Excel_XLSX_Export-217346?style=flat-square"/>
     </td>
   </tr>
 
+  <!-- Architecture -->
   <tr>
     <td><b>Architecture, Security & Integrations</b></td>
     <td>
-      MVC · Client–Server · SOA · Modular Backend Design · JWT Access Control · RBAC · Password Hashing (bcrypt) ·
-      File Uploads (Multer) · Webhooks Integration · Payment Gateway Integration · WhatsApp Deep Links
+      <img src="https://img.shields.io/badge/MVC-4B5563?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Client--Server-1E40AF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SOA-7C3AED?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Modular_Backend_Design-0EA5E9?style=flat-square"/>
+      <img src="https://img.shields.io/badge/JWT_Access_Control-111827?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RBAC-16A34A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Password_Hashing_(bcrypt)-F59E0B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/File_Uploads_(Multer)-4CAF50?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Webhooks_Integration-6B7280?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Payment_Gateway_Integration-635BFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/WhatsApp_Deep_Links-25D366?style=flat-square"/>
     </td>
   </tr>
 </table>
+
 
 
 
