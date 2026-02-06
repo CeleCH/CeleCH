@@ -68,130 +68,120 @@
 <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
 </picture> 
-<h2>🛠️ | Languages, Frameworks, and Tools</h2>
+ 🔧 Habilidades y Tecnologías
 
-<table>
-  <!-- Frontend -->
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite,nextjs,ts" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=flat-square"/>
-    </td>
-  </tr>
+🎨 Frontend
+<p> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
 
-  <!-- Backend -->
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square"/>
-      <img src="https://img.shields.io/badge/JWT_Authentication-111827?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Role_Based_Security-16A34A?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Stripe_Payments-635BFF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Webhooks-4B5563?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Environment_Variables-.env-22C55E?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square"/>
-      <img src="https://img.shields.io/badge/mysql2-4479A1?style=flat-square"/>
-    </td>
-  </tr>
+</p>
 
-  <!-- Databases -->
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Relational_Modeling-7C3AED?style=flat-square"/>
-      <img src="https://img.shields.io/badge/SQL_Queries-0F172A?style=flat-square"/>
-    </td>
-  </tr>
+🖥️ Backend
+<p> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/JWT_Authentication-111827?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Role_Based_Security-16A34A?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Stripe_Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Webhooks-4B5563?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Environment_Variables-.env-22C55E?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/mysql2-4479A1?style=for-the-badge"/>
 
-  <!-- Visualization -->
-  <tr>
-    <td><b>Visualization & Dashboards</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=chartjs" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Recharts-22C55E?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Admin_Dashboards-1E40AF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/KPIs_&_Analytics-0EA5E9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Data_Visualization-020617?style=flat-square"/>
-    </td>
-  </tr>
+</p>
 
-  <!-- Tools -->
-  <tr>
-    <td><b>Tools & DevOps</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Swagger_API-85EA2D?style=flat-square"/>
-      <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square"/>
-      <img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square"/>
-    </td>
-  </tr>
+🗄️ Base de Datos
+<p> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Relational_Modeling-7C3AED?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/SQL_Queries-0F172A?style=for-the-badge"/> 
 
-  <!-- Desktop -->
-  <tr>
-    <td><b>Desktop & Multiplatform</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=tauri,windows" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Desktop_Applications-3F51B5?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Windows_Apps-0078D6?style=flat-square"/>
-    </td>
-  </tr>
+</p>
 
-  <!-- Mobile -->
-  <tr>
-    <td><b>Mobile Development</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=flutter,dart,android" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Android_APK-3DDC84?style=flat-square"/>
-    </td>
-  </tr>
+📊 Visualización & Dashboards
+<p> 
+  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Admin_Dashboard-1E40AF?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/KPIs_&_Analytics-0EA5E9?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Data_Visualization-020617?style=for-the-badge"/> 
 
-  <!-- Languages -->
-  <tr>
-    <td><b>Languages & Runtime</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=js,ts,java,rust" />
-    </td>
-  </tr>
+</p>
 
-  <!-- Build -->
-  <tr>
-    <td><b>Build & Reporting</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PDF_Report_Generation-9C27B0?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Excel_XLSX_Export-217346?style=flat-square"/>
-    </td>
-  </tr>
+🛠️ Herramientas & DevOps
+<p> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Swagger_API-85EA2D?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> 
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge"/>
 
-  <!-- Architecture -->
-  <tr>
-    <td><b>Architecture, Security & Integrations</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MVC-4B5563?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Client--Server-1E40AF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/SOA-7C3AED?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Modular_Backend_Design-0EA5E9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/JWT_Access_Control-111827?style=flat-square"/>
-      <img src="https://img.shields.io/badge/RBAC-16A34A?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Password_Hashing_(bcrypt)-F59E0B?style=flat-square"/>
-      <img src="https://img.shields.io/badge/File_Uploads_(Multer)-4CAF50?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Webhooks_Integration-6B7280?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Payment_Gateway_Integration-635BFF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/WhatsApp_Deep_Links-25D366?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+</p>
+
+🖥️ Escritorio & Multiplataforma
+<p> 
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Desktop_Applications-3F51B5?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Windows_App-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
+
+</p>
+
+📱 Desarrollo móvil
+<p> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
+
+</p>
+
+⚙️ Lenguajes & Runtime
+<p> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> 
+
+</p>
+
+🛠️ Build, Export & Reporting
+<p> 
+  <img src="https://img.shields.io/badge/PDF_Report_Generation-9C27B0?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Excel_XLSX_Export-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+
+</p>
+
+🧠 Arquitectura, Seguridad & Integraciones
+<p> 
+  <img src="https://img.shields.io/badge/MVC_Architecture-4B5563?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Client--Server_Architecture-1E40AF?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/SOA_Architecture-7C3AED?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Modular_Backend_Design-0EA5E9?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/JWT_Access_Control-111827?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Role_Based_Access_Control-16A34A?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Password_Hashing_(bcrypt)-F59E0B?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/File_Uploads_(Multer)-4CAF50?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Webhooks_Integration-6B7280?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Payment_Gateway_Integration-635BFF?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/WhatsApp_Deep_Links-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
+
+</p>
 
 
 
