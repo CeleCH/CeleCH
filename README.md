@@ -25,7 +25,7 @@
 </picture> 
 🌸 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad Tecnológica del Perú (UTP)**  
+- 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional del Santa**  
 - 💻 Desarrollo **sistemas web completos (backend y frontend)**  
 - 🧠 Me enfoco en **lógica, estructura, seguridad y bases de datos**  
 - 🎨 También cuido el **diseño visual**, dashboards y experiencia de usuario  
