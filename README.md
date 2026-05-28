@@ -55,7 +55,7 @@
 | 🚨 **SOS Emergency App (Flutter)** | App móvil de emergencias con botón SOS, geolocalización, alertas por WhatsApp e historial local. |
 | 🏨 **Sistema de Gestión y Reservas de Hotel (SOA)** | Sistema web SOA con JWT y control de roles, gestión de reservas y habitaciones, panel administrativo con KPIs y arquitectura backend desacoplada. |
 | 🚗 **CarWash Project – Reservas y Pagos Online** | Sistema Full Stack de reservas para CarWash con pagos vía Stripe, Yape/Plin, webhooks y panel administrativo. |
-
+| 🎓 Sistema Académico Legacy – Colegio Futuro Digital | Sistema académico monolítico desarrollado en PHP y SQLite con gestión de alumnos, docentes, pagos, asistencia y calificaciones. Incluye control de roles, dashboard con métricas y propuesta de migración a microservicios SOA mediante APIs REST y API Gateway. |
 
 
 
