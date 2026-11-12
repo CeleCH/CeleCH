@@ -25,7 +25,7 @@
 </picture> 
 🌸 Sobre mí
 
-- 🎓 Egresada de **Ingeniería de Sistemas** en la **Universidad Tecnologica del Peru**  
+- 🎓 Bachiller en **Ingeniería de Sistemas** en la **Universidad Tecnologica del Peru**  
 - 💻 Desarrollo **sistemas web completos (backend y frontend)**  
 - 🧠 Me enfoco en **lógica, estructura, seguridad y bases de datos**  
 - 🎨 También cuido el **diseño visual**, dashboards y experiencia de usuario  
